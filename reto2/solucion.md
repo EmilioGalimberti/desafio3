@@ -20,6 +20,11 @@
   
  2. Pantallazo de la conexión al servidor de base de datos con el usuario creado y de la base de datos `prueba` creada automáticamente.
 
+![image](https://user-images.githubusercontent.com/51717240/187043563-b432bf4a-870d-442f-ada8-6cfc4ec75c09.png)
+![image](https://user-images.githubusercontent.com/51717240/187043572-6cd4195f-d76b-4f53-a8a7-911c5d549700.png)
+
+
+
 Y comprobamos que podemos acceder a la base de datos y que nuestro esquema `prueba` está creado
 
 Use Gestor de Base de Datos
@@ -31,6 +36,9 @@ Use Gestor de Base de Datos
 ```bash
 sudo docker rmi mariadb
 ```
+
+![image](https://user-images.githubusercontent.com/51717240/187043581-4d230bd1-c678-4a27-a2b7-20f60735dbd6.png)
+
 ### Entregable:
 
 - Armar una solucion.md y usando Markdown y agregar las images de la solución:
