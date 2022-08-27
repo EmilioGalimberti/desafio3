@@ -20,14 +20,18 @@ tengas instalado docker.
 `$ docker ps -a`
 
 1. Pantallazo donde se vea la creación del contenedor y podamos comprobar que el contenedor está funcionando.
+![image](https://user-images.githubusercontent.com/51717240/187041974-ccf63dcd-b73f-4037-8f40-e479d801f2a6.png)
 
 2. Pantallazo donde se vea el acceso al servidor web utilizando un navegador web (recuerda que tienes que acceder a la ip del ordenador donde tengas instalado
 docker)
+![image](https://user-images.githubusercontent.com/51717240/187042000-b1977520-175d-4614-afc5-077b52daa2b5.png)
 
 3. Pantallazo donde se vean las imágenes que tienes en tu registro local.
+![image](https://user-images.githubusercontent.com/51717240/187042008-84af8509-f144-4983-bbec-56a537f2625e.png)
 
 4. Pantallazo donde se vea cómo se elimina el contenedor (recuerda que antes debe
 estar parado el contenedor).
+![image](https://user-images.githubusercontent.com/51717240/187042027-c7e8758a-65e6-4943-af15-11545e406cc7.png)
 
 ### Entregable:
 
