@@ -1,0 +1,12 @@
+#imagen a utilizar como base
+FROM httpd:alpine
+
+#etiquetado
+LABEL maintainer="emiliogalimberty@gmail.com"
+LABEL project="bootcamp"
+
+#puerto
+EXPOSE 80
+
+#modificamos sobre la imagen que he utilizado como base, en este caso alpine
+COPY content/ /usr/local/apache2/htdocs/
